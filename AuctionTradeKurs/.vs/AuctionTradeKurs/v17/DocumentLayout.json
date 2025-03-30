@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\AuctionTradeKurs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0023F4-F843-4F58-AD59-D7822998EF1B}|AuctionTradeKurs.csproj|c:\\users\\lenovo\\source\\repos\\auctiontradekurs\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF0023F4-F843-4F58-AD59-D7822998EF1B}|AuctionTradeKurs.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0023F4-F843-4F58-AD59-D7822998EF1B}|AuctionTradeKurs.csproj|C:\\Users\\Lenovo\\source\\repos\\AuctionTradeKurs\\helpform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CF0023F4-F843-4F58-AD59-D7822998EF1B}|AuctionTradeKurs.csproj|solutionrelative:helpform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0023F4-F843-4F58-AD59-D7822998EF1B}|AuctionTradeKurs.csproj|C:\\Users\\Lenovo\\source\\repos\\AuctionTradeKurs\\aboutform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CF0023F4-F843-4F58-AD59-D7822998EF1B}|AuctionTradeKurs.csproj|solutionrelative:aboutform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0023F4-F843-4F58-AD59-D7822998EF1B}|AuctionTradeKurs.csproj|C:\\Users\\Lenovo\\source\\repos\\AuctionTradeKurs\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CF0023F4-F843-4F58-AD59-D7822998EF1B}|AuctionTradeKurs.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0023F4-F843-4F58-AD59-D7822998EF1B}|AuctionTradeKurs.csproj|c:\\users\\lenovo\\source\\repos\\auctiontradekurs\\bidlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF0023F4-F843-4F58-AD59-D7822998EF1B}|AuctionTradeKurs.csproj|solutionrelative:bidlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0023F4-F843-4F58-AD59-D7822998EF1B}|AuctionTradeKurs.csproj|c:\\users\\lenovo\\source\\repos\\auctiontradekurs\\auctionpaymentinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF0023F4-F843-4F58-AD59-D7822998EF1B}|AuctionTradeKurs.csproj|solutionrelative:auctionpaymentinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0023F4-F843-4F58-AD59-D7822998EF1B}|AuctionTradeKurs.csproj|c:\\users\\lenovo\\source\\repos\\auctiontradekurs\\lot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF0023F4-F843-4F58-AD59-D7822998EF1B}|AuctionTradeKurs.csproj|solutionrelative:lot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0023F4-F843-4F58-AD59-D7822998EF1B}|AuctionTradeKurs.csproj|c:\\users\\lenovo\\source\\repos\\auctiontradekurs\\auction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF0023F4-F843-4F58-AD59-D7822998EF1B}|AuctionTradeKurs.csproj|solutionrelative:auction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HelpForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\AuctionTradeKurs\\HelpForm.cs",
+              "RelativeDocumentMoniker": "HelpForm.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\AuctionTradeKurs\\HelpForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "HelpForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T18:30:42.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AboutForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\AuctionTradeKurs\\AboutForm.cs",
+              "RelativeDocumentMoniker": "AboutForm.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\AuctionTradeKurs\\AboutForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "AboutForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T18:29:56.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuctionPaymentInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\AuctionTradeKurs\\AuctionPaymentInfo.cs",
+              "RelativeDocumentMoniker": "AuctionPaymentInfo.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\AuctionTradeKurs\\AuctionPaymentInfo.cs",
+              "RelativeToolTip": "AuctionPaymentInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T17:42:26.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Lot.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\AuctionTradeKurs\\Lot.cs",
+              "RelativeDocumentMoniker": "Lot.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\AuctionTradeKurs\\Lot.cs",
+              "RelativeToolTip": "Lot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T17:22:53.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Auction.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\AuctionTradeKurs\\Auction.cs",
+              "RelativeDocumentMoniker": "Auction.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\AuctionTradeKurs\\Auction.cs",
+              "RelativeToolTip": "Auction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T14:40:49.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BidLog.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\AuctionTradeKurs\\BidLog.cs",
+              "RelativeDocumentMoniker": "BidLog.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\AuctionTradeKurs\\BidLog.cs",
+              "RelativeToolTip": "BidLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T14:35:56.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\AuctionTradeKurs\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\AuctionTradeKurs\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T11:55:18.266Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\AuctionTradeKurs\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\AuctionTradeKurs\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T10:48:45.021Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 169,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
